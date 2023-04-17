@@ -22,9 +22,10 @@ my stuff self coded
 ![image](https://user-images.githubusercontent.com/121444941/232535722-dc4c9d3e-a2eb-409f-9b77-0f82b5016a84.png)
 
 ## Task App(UNOFFICAL NOT IN CODE YET)
+## Adding (button is Add)
 ![image](https://user-images.githubusercontent.com/121444941/232536015-ec3da563-c445-4380-a231-6e5924bbb247.png)
-## Changing / EDITING
+## Changing / EDITING(marker pen or pencil or pen)
 ![image](https://user-images.githubusercontent.com/121444941/232536196-0fbb9eb5-efe4-4bb7-a7a1-feed4f960234.png)
-## Deleting
+## Deleting(button is trashcan)
 ![image](https://user-images.githubusercontent.com/121444941/232536299-d040c4c3-e277-4a4e-81f2-58e71203381a.png)
 ![image](https://user-images.githubusercontent.com/121444941/232536417-ce30917e-0c4e-4ea4-a9c2-ade9471a31c2.png)
